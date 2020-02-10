@@ -1,0 +1,14 @@
+ name: statlearning_2020
+ channels:
+   - conda-forge
+ dependencies:
+   - python=3.8
+   - numpy
+   - pandas
+   - scikit-learn
+   - seaborn
+   - statsmodels
+   - matplotlib
+   - jupyter
+   - jupyterlab
+
